@@ -5,9 +5,13 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
+Clone the places-around-me repository into the folder named 'EX04'.Perform the necessary changes in settings.py.
 
 ### Step 2:
+Create a folder named 'static' in which a folder named 'html' has to be created and under which all the required html files are to be included. Code the main html program for the website and link all the other 5 html codes created regarding the places description.
 
+### Step 3:
+Edit the readme.md file and push the files to the GitHub to display the contents for the same.
 ## Code:
 
 ## jp.html:
